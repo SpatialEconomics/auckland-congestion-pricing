@@ -33,8 +33,10 @@ We use **TomTom Traffic Stats – Area Analysis** to estimate congestion levels 
 - Integrated using `sf` and `sfnetworks` packages  
 
 
-### **3. agent-based modelling**
+### **3. Agent-based modelling**
 
+- Modelling Auckland transport using 2023 Census data  
+- Developing inputs for an agent-based model of Auckland’s transport system  
 - In collaboration with the University of Glasgow (TBC)
 
 
@@ -58,6 +60,7 @@ This repository is maintained by a research group of academics and students from
 Additional collaborator:
 
 - **Saeid Adli** – *Spatial Economics*  
+  Contribution: modelling Auckland transport using 2023 Census data for an agent-based model.  
   📧 [saeid.adli@spatialeconomics.co.nz](mailto:saeid.adli@spatialeconomics.co.nz)
 
 
